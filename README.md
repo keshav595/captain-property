@@ -16,16 +16,15 @@ https://captain-property.vercel.app
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### Homepage
-![Homepage](assets/home.png)
+![Homepage](home.png)
 
 ### Properties Section
-![Properties](assets/properties.png)
+![Properties](properties.png)
 
 ### Contact Section
-![Contact](assets/contact.png)
+![Contact](contact.png)
+
 ## 🚀 How to Use
 
 1. Clone the repository
